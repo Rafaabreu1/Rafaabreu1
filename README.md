@@ -1,5 +1,6 @@
 ## Olá 👋
-Habilidades
+
+## Habilidades
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
@@ -8,15 +9,15 @@ Habilidades
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
-Detalhes
+## Detalhes
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rafaabreu1&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
 
-Linguagens utilizadas
+## Linguagens utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaabreu1&layout=compact)
 
-Contatos
+## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-abreu-372a60219/)
 
