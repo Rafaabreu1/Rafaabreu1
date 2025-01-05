@@ -2,12 +2,12 @@
 
 Olá! Sou Rafael de Abreu, formado em Química pela UFSC e atualmente estudante de Matemática na Unicesumar. Atuo como professor de Química, Ciências e Matemática, experiências que me permitiram desenvolver competências analíticas, além de sólidos conhecimentos em estatística e matemática. Inspirado por minha paixão por dados, estou me especializando em análise de dados desde abril de 2024. Durante esse período, adquiri habilidades como:
 
-Python (Pandas, Seaborn, GeoPandas, Matplotlib, NumPy)
-SQL (MySQL, Microsoft SQL Server)
-Versionamento de Código (Git)
-Métodos Quantitativos em matemática e estatística 
-Soluções Analíticas
-Proatividade e Organização
+Python (Pandas, Seaborn, GeoPandas, Matplotlib, NumPy),
+SQL (MySQL, Microsoft SQL Server),
+Versionamento de Código (Git),
+Métodos Quantitativos em matemática e estatística, 
+Soluções Analíticas,
+Proatividade e Organização,
 Busco oportunidades para aplicar essas competências e contribuir para decisões estratégicas baseadas em dados.
 
 ## Habilidades
