@@ -33,6 +33,8 @@ Com mais de três anos de experiência como professor de Química, Ciências e M
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaabreu1&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaabreu1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-abreu-372a60219/)
