@@ -1,5 +1,22 @@
 ## Olá 👋
 
+Olá! Sou Rafael de Abreu, formado em Química pela UFSC, atualmente cursando Matemática na Unicesumar e Análise de Dados pela EBAC. Nos meus projetos de análise de dados, alcancei resultados significativos e impactantes, como:
+
+Análise de Dados da Loggi: Identifiquei as regiões com maior densidade de entregas e as 10 áreas com maior volume de pedidos em Brasília, utilizando visualizações em Matplotlib após um rigoroso processo de ETL.
+
+Dashboard da COVID-19 (2022): Desenvolvi um painel interativo que destacou dados críticos como número de casos, vacinas e óbitos por dia no Brasil no ano de 2022, ajudando a visualizar tendências de forma clara e objetiva.
+
+Com mais de três anos de experiência como professor de Química, Ciências e Matemática, desenvolvi sólidas competências analíticas, habilidades matemáticas e uma comunicação eficaz. Baseado em minha paixão por dados, me especializei em análise de dados com foco em:
+
+Python: Pandas, Matplotlib, Seaborn, GeoPandas e NumPy.
+SQL: MySQL e (Athena, s3) 
+BI: Looker Studio (Google Data Studio).
+ETL: Extração, Transformação e Carregamento de Dados.
+Estatística e Computação em Nuvem (AWS).
+
+Estou em busca de oportunidades para aplicar essas habilidades em projetos estratégicos, agregando valor por meio de análises e soluções baseadas em dados.
+
+
 ## Habilidades
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
