@@ -33,7 +33,7 @@ Com mais de três anos de experiência como professor de Química, Ciências e M
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaabreu1&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaabreu1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaabreu1&repo=Projeto-An-lise-de-Dados-da-COVID-19-Dashboard-2022&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos
 
