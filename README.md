@@ -29,9 +29,6 @@ Com mais de três anos de experiência como professor de Química, Ciências e M
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rafaabreu1&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
 
-## Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafaabreu1&repo=Rafaabreu1.github.io&theme=dark)](https://github.com/Rafaabreu1?tab=repositories)
 
 ## Linguagens utilizadas
 
