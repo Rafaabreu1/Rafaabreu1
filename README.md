@@ -6,15 +6,7 @@ Análise de Dados da Loggi: Identifiquei as regiões com maior densidade de entr
 
 Dashboard da COVID-19 (2022): Desenvolvi um painel interativo que destacou dados críticos como número de casos, vacinas e óbitos por dia no Brasil no ano de 2022, ajudando a visualizar tendências de forma clara e objetiva.
 
-Com mais de três anos de experiência como professor de Química, Ciências e Matemática, desenvolvi sólidas competências analíticas, habilidades matemáticas e uma comunicação eficaz. Baseado em minha paixão por dados, me especializei em análise de dados com foco em:
-
-Python: Pandas, Matplotlib, Seaborn, GeoPandas e NumPy.
-SQL: MySQL e (Athena, s3) 
-BI: Looker Studio (Google Data Studio).
-ETL: Extração, Transformação e Carregamento de Dados.
-Estatística e Computação em Nuvem (AWS).
-
-Estou em busca de oportunidades para aplicar essas habilidades em projetos estratégicos, agregando valor por meio de análises e soluções baseadas em dados.
+Com mais de três anos de experiência como professor de Química, Ciências e Matemática, desenvolvi sólidas competências analíticas, habilidades matemáticas e uma comunicação eficaz. Baseado em minha paixão por dados estou em busca de oportunidades para aplicar essas habilidades em projetos estratégicos, agregando valor por meio de análises e soluções baseadas em dados.
 
 
 ## Habilidades
