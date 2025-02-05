@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Olá! Sou Rafael de Abreu, formado em Química pela UFSC e atualmente cursando Matemática na Unicesumar e Análise de Dados pela EBAC. Tenho 3 anos e meio de experiência em iniciação científica, analisando e apresentando dados experimentais para Acelerar reações químicas. Nos meus projetos de análise de dados, obtive insights valiosos e impactantes, como:
+Olá! Sou Rafael de Abreu, formado em Química pela UFSC e atualmente cursando Ciência da computação estácio e Análise de Dados pela EBAC. Tenho 3 anos e meio de experiência em iniciação científica, analisando e apresentando dados experimentais para Acelerar reações químicas. Nos meus projetos de análise de dados, obtive insights valiosos e impactantes, como:
 
 Análise de Dados da Loggi: Identifiquei as regiões com maior densidade de entregas e as 10 áreas com maior volume de pedidos em Brasília, utilizando visualizações em Matplotlib após um rigoroso processo de ETL.
 
